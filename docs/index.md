@@ -1,8 +1,8 @@
 # LaunchBox Reader Documentation
 
-LaunchBox Reader is a free reader for manuals, guides, books, comics, and other documents used with LaunchBox and Big Box.
+LaunchBox Reader is a free standalone reader for manuals, guides, books, comics, image archives, and other documents.
 
-It is built for the way game libraries are actually used: open a manual from a game, jump back to the page you left off, read comfortably on a monitor or TV, and navigate with a keyboard or controller.
+It is built for quick document reading: open a file or folder, jump back to the page you left off, read comfortably on a monitor or TV, and navigate with a mouse, keyboard, or controller.
 
 ## Getting Started
 
@@ -13,13 +13,13 @@ It is built for the way game libraries are actually used: open a manual from a g
 ## Features
 
 - Read PDFs, EPUB books, comic archives, image folders, and text documents.
-- Open manuals and additional documents directly from LaunchBox and Big Box.
+- Open manuals, guides, books, comics, image folders, and archives.
 - Resume documents where you left off.
 - Use layouts designed for manuals, comics, books, and TV reading.
 - Navigate with a mouse, keyboard, or controller.
 - Use table of contents entries when a document provides them.
 - Add bookmarks for important pages and locations.
-- Customize keyboard and controller mappings from LaunchBox options.
+- Use keyboard and controller mappings designed for reading from a desk or couch.
 
 ## User Guide
 

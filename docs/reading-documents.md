@@ -55,9 +55,8 @@ EPUB-specific options include:
 
 Fullscreen is useful for couch reading, cabinet setups, and TV displays. You can toggle fullscreen from the reader chrome or with the configured keyboard/controller mapping.
 
-## Returning to LaunchBox
+## Closing the Reader
 
 Close the reader when you are finished. Your reading position is saved so the document can resume from the same location next time.
 
 Use Back when you want to leave an overlay and return focus to the reader controls. Use Close reader when you want to exit the reader.
-

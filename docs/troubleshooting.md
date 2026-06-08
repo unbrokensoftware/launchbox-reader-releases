@@ -49,7 +49,7 @@ Try these checks:
 
 - Make sure the controller is connected before opening the reader.
 - Check that Windows can see the controller.
-- Open LaunchBox controller mappings and confirm the reader actions are mapped.
+- Confirm the reader actions are mapped if you are using custom mappings.
 - If you use multiple controller types, confirm the active controller profile is the one you expect.
 
 ## Keyboard or Controller Focus Feels Stuck
@@ -81,8 +81,7 @@ That can sort differently than expected.
 When reporting a problem, include:
 
 - The file type.
-- Whether it happens in LaunchBox, Big Box, or both.
+- Whether it happens when opening the reader normally or from another application.
 - Whether it happens with one document or many.
 - What you expected to happen.
 - What happened instead.
-

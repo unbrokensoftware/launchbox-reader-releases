@@ -20,8 +20,8 @@ This keeps the reader isolated from the host application. If the reader exits or
 
 ## Common Use Cases
 
-- Open a game manual from a launcher.
-- Open a guide, map, or reference document from a game details screen.
+- Open a manual from another application.
+- Open a guide, map, or reference document from a media details screen.
 - Open comics or image archives from a media library.
 - Start fullscreen on the same monitor as the calling app.
 - Resume a document where the user left off.
@@ -76,4 +76,3 @@ Your app does not need to create or edit reader databases for normal use.
 - [Files, Data, and Cache Layout](file-layout.md)
 - [SQLite Data Stores](sqlite-stores.md)
 - [Integration Examples](examples.md)
-

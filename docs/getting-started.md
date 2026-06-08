@@ -1,13 +1,13 @@
 # Getting Started
 
-LaunchBox Reader opens documents from your LaunchBox and Big Box library. It is meant for manuals, strategy guides, reference cards, magazines, comics, art books, and other documents you want close at hand while browsing or playing.
+LaunchBox Reader opens documents, books, comics, archives, images, and image folders. It is meant for manuals, strategy guides, reference cards, magazines, comics, art books, and other documents you want to read quickly and comfortably.
 
 ## What It Is For
 
 Use LaunchBox Reader when you want to:
 
-- Read a game manual without leaving LaunchBox or Big Box.
-- View additional documents connected to a game or platform.
+- Read a manual, guide, book, or reference document.
+- View scanned booklets, maps, magazines, or art books.
 - Read comics, scanned booklets, or image archives.
 - Open EPUB books and text documents.
 - Resume a document at the exact place you stopped reading.
@@ -15,11 +15,7 @@ Use LaunchBox Reader when you want to:
 
 ## Opening a Document
 
-Most users open documents from LaunchBox or Big Box:
-
-1. Select a game or platform that has a manual or document.
-2. Choose the manual or additional document action.
-3. LaunchBox Reader opens the document.
+Open a supported file or image folder with LaunchBox Reader. Documents can include PDFs, EPUB books, comic archives, image archives, text files, and folders of page images.
 
 The reader remembers document state, including your last location and many display preferences.
 
@@ -50,4 +46,3 @@ When you reopen a document, LaunchBox Reader returns to the page or location you
 - [Reading Documents](reading-documents.md)
 - [Contents and Bookmarks](contents-and-bookmarks.md)
 - [Reader Settings](settings.md)
-

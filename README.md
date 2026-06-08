@@ -1,6 +1,6 @@
 # LaunchBox Reader
 
-LaunchBox Reader is a free document reader from Unbroken Software for reading game manuals, guides, books, comics, and related documents from LaunchBox and Big Box.
+LaunchBox Reader is a free standalone document reader from Unbroken Software for reading manuals, guides, books, comics, image archives, and related documents.
 
 This repository hosts public releases, release notes, and documentation for LaunchBox Reader. Source code is not published in this repository.
 

@@ -1,14 +1,6 @@
 # Keyboard and Controller Controls
 
-LaunchBox Reader supports mouse, keyboard, and controller navigation. Keyboard and controller mappings can be customized from LaunchBox options.
-
-In LaunchBox, open:
-
-`Options > Reader > Keyboard Mappings`
-
-or:
-
-`Options > Reader > Controller Mappings`
+LaunchBox Reader supports mouse, keyboard, and controller navigation.
 
 ## Keyboard Defaults
 
@@ -83,4 +75,3 @@ Use Clear to remove mappings from an action. Use Reset to restore defaults after
 - Use long press for actions that should not happen by mistake.
 - Keep page navigation on easy-to-reach buttons.
 - Keep Settings and Contents on buttons you can remember quickly.
-

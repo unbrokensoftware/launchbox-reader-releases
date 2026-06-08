@@ -41,8 +41,8 @@ Slash aliases are supported on Windows.
 | `--path`, `-path` | File or folder path | Document, archive, image, or image folder to open. |
 | `--format`, `-format` | `pdf`, `epub`, `cbz`, `cbr`, `cb7`, `cbt`, `zip`, `rar`, `7z`, `images` | Optional format hint when a path is ambiguous. |
 | `--document-title`, `-document-title` | Text | Title shown by the reader instead of the filename. |
-| `--game-title`, `-game-title` | Text | Related game title for display integrations. |
-| `--platform`, `-platform` | Text | Related platform title for display integrations. |
+| `--game-title`, `-game-title` | Text | Optional related item title for display integrations. |
+| `--platform`, `-platform` | Text | Optional related category title for display integrations. |
 
 ## Startup Location
 
@@ -119,4 +119,3 @@ For integration robustness:
 - Use supported file extensions.
 - Use `--verbose-logging` when diagnosing launch issues.
 - Read logs from the reader data root if a user reports a failure.
-

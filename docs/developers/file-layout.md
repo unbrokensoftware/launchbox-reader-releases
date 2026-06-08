@@ -20,39 +20,6 @@ LaunchBox Reader/
 
 This makes the standalone reader portable. If a user moves the folder, their reader data moves with it.
 
-## LaunchBox-Bundled Layout
-
-When Reader is placed inside a LaunchBox install under one of these layouts:
-
-```text
-LaunchBox/
-  Core/
-    LaunchBox.Reader.exe
-```
-
-or:
-
-```text
-LaunchBox/
-  Core/
-    Reader/
-      LaunchBox.Reader.exe
-```
-
-the reader stores data here:
-
-```text
-LaunchBox/
-  SystemData/
-    Reader/
-      reader-settings.db
-      reader-state.db
-      Logs/
-      Cache/
-```
-
-This is the LaunchBox-specific behavior. It keeps reader data with LaunchBox system data instead of inside the executable folder.
-
 ## Environment Override
 
 The data root can be overridden with:
@@ -103,4 +70,3 @@ It is safe for users to delete `Cache/` while the reader is closed. The reader w
 Do not delete `reader-state.db` unless the user wants to remove reading progress and bookmarks.
 
 Do not delete `reader-settings.db` unless the user wants to reset settings and input mappings.
-
