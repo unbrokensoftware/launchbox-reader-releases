@@ -28,6 +28,16 @@ It is built for the way game libraries are actually used: open a manual from a g
 - [Keyboard and Controller Controls](controls.md)
 - [Troubleshooting](troubleshooting.md)
 
+## Developer Integration
+
+LaunchBox Reader can also be launched by another Windows application as a standalone reader process.
+
+- [Integration Guide](developers/index.md)
+- [Command Line Reference](developers/command-line.md)
+- [Files, Data, and Cache Layout](developers/file-layout.md)
+- [SQLite Data Stores](developers/sqlite-stores.md)
+- [Integration Examples](developers/examples.md)
+
 ## Releases
 
 Downloads are published on the GitHub Releases page:

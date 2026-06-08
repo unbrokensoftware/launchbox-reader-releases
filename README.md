@@ -26,6 +26,14 @@ User guide pages:
 - [Supported Formats](docs/supported-formats.md)
 - [Troubleshooting](docs/troubleshooting.md)
 
+Developer integration:
+
+- [Integration Guide](docs/developers/index.md)
+- [Command Line Reference](docs/developers/command-line.md)
+- [Files, Data, and Cache Layout](docs/developers/file-layout.md)
+- [SQLite Data Stores](docs/developers/sqlite-stores.md)
+- [Integration Examples](docs/developers/examples.md)
+
 ## License
 
 LaunchBox Reader is free to use, but it is not open source. See `LICENSE.txt` for the software license terms.
