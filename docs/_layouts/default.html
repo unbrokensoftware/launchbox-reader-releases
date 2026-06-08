@@ -24,16 +24,22 @@
           <small>Documentation</small>
         </span>
       </a>
+      <div class="header-actions">
+        <button class="theme-toggle" type="button" aria-label="Switch to dark mode" aria-pressed="false">
+          <span class="theme-toggle-track" aria-hidden="true">
+            <span class="theme-toggle-sun">☀</span>
+            <span class="theme-toggle-moon">☾</span>
+            <span class="theme-toggle-thumb"></span>
+          </span>
+          <span class="theme-toggle-text">Light</span>
+        </button>
+      </div>
       <nav class="top-nav" aria-label="Primary navigation">
         <a href="{{ '/' | relative_url }}">Docs</a>
         <a href="{{ '/supported-formats.html' | relative_url }}">Formats</a>
         <a href="{{ '/controls.html' | relative_url }}">Controls</a>
         <a href="{{ '/developers/' | relative_url }}">Developers</a>
         <a class="download-link" href="https://github.com/unbrokensoftware/launchbox-reader-releases/releases">Releases</a>
-        <button class="theme-toggle" type="button" aria-label="Toggle dark mode" aria-pressed="false">
-          <span class="theme-toggle-icon" aria-hidden="true"></span>
-          <span class="theme-toggle-text">Theme</span>
-        </button>
       </nav>
     </header>
 
