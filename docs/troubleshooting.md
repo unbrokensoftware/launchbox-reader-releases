@@ -1,3 +1,8 @@
+---
+title: Troubleshooting
+description: Common issues and fixes for LaunchBox Reader.
+---
+
 # Troubleshooting
 
 This page covers common user-facing issues and quick things to try.
@@ -12,7 +17,7 @@ Try these checks:
 - If it is a PDF, confirm it is not password protected.
 - If it is an image folder, confirm the folder contains supported image files.
 
-See [Supported Formats](supported-formats.md).
+See [Supported Formats](supported-formats.html).
 
 ## The Wrong Page Opens
 

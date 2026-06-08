@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="LaunchBox Reader">
+  <defs>
+    <linearGradient id="page" x1="11" y1="8" x2="53" y2="58" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#dce6ff"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="16" y1="14" x2="52" y2="50" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2f7cff"/>
+      <stop offset="0.55" stop-color="#19b7a2"/>
+      <stop offset="1" stop-color="#ff7a59"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="#15161c"/>
+  <path d="M18 11h23l9 9v33H18z" fill="url(#page)"/>
+  <path d="M41 11v10h9z" fill="#b7c6ea"/>
+  <path d="M25 26h20v4H25zM25 35h20v4H25zM25 44h13v4H25z" fill="#22242d"/>
+  <path d="M16 11h5v42h-5z" fill="url(#accent)"/>
+</svg>
+

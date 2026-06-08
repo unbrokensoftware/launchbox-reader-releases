@@ -1,3 +1,8 @@
+---
+title: Keyboard and Controller Controls
+description: Default keyboard and controller controls for LaunchBox Reader.
+---
+
 # Keyboard and Controller Controls
 
 LaunchBox Reader supports mouse, keyboard, and controller navigation.

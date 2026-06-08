@@ -1,0 +1,14 @@
+title: LaunchBox Reader
+description: Standalone reader documentation, downloads, and integration notes.
+baseurl: /launchbox-reader-releases
+url: https://unbrokensoftware.github.io
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+

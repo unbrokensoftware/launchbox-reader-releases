@@ -1,3 +1,8 @@
+---
+title: LaunchBox Reader Documentation
+description: User guide, downloads, and developer integration notes for LaunchBox Reader.
+---
+
 # LaunchBox Reader Documentation
 
 LaunchBox Reader is a free standalone reader for manuals, guides, books, comics, image archives, and other documents.
@@ -6,9 +11,9 @@ It is built for quick document reading: open a file or folder, jump back to the 
 
 ## Getting Started
 
-- [Getting Started](getting-started.md)
-- [Supported Formats](supported-formats.md)
-- [Reading Documents](reading-documents.md)
+- [Getting Started](getting-started.html)
+- [Supported Formats](supported-formats.html)
+- [Reading Documents](reading-documents.html)
 
 ## Features
 
@@ -23,20 +28,20 @@ It is built for quick document reading: open a file or folder, jump back to the 
 
 ## User Guide
 
-- [Contents and Bookmarks](contents-and-bookmarks.md)
-- [Reader Settings](settings.md)
-- [Keyboard and Controller Controls](controls.md)
-- [Troubleshooting](troubleshooting.md)
+- [Contents and Bookmarks](contents-and-bookmarks.html)
+- [Reader Settings](settings.html)
+- [Keyboard and Controller Controls](controls.html)
+- [Troubleshooting](troubleshooting.html)
 
 ## Developer Integration
 
 LaunchBox Reader can also be launched by another Windows application as a standalone reader process.
 
-- [Integration Guide](developers/index.md)
-- [Command Line Reference](developers/command-line.md)
-- [Files, Data, and Cache Layout](developers/file-layout.md)
-- [SQLite Data Stores](developers/sqlite-stores.md)
-- [Integration Examples](developers/examples.md)
+- [Integration Guide](developers/)
+- [Command Line Reference](developers/command-line.html)
+- [Files, Data, and Cache Layout](developers/file-layout.html)
+- [SQLite Data Stores](developers/sqlite-stores.html)
+- [Integration Examples](developers/examples.html)
 
 ## Releases
 

@@ -1,3 +1,8 @@
+---
+title: Contents and Bookmarks
+description: Use table of contents entries and bookmarks to jump through documents.
+---
+
 # Contents and Bookmarks
 
 The Contents panel helps you jump around a document. It can show a document-provided table of contents, your bookmarks, or both.
@@ -50,4 +55,3 @@ Good bookmark names are short and specific:
 ## Documents Without a Table of Contents
 
 If a document does not provide a real table of contents, the Contents panel focuses on bookmarks instead of filling the panel with every page. This keeps the panel useful for the things you chose to save.
-

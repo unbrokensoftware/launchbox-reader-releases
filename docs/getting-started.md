@@ -1,3 +1,8 @@
+---
+title: Getting Started
+description: Learn what LaunchBox Reader is for and how to open documents.
+---
+
 # Getting Started
 
 LaunchBox Reader opens documents, books, comics, archives, images, and image folders. It is meant for manuals, strategy guides, reference cards, magazines, comics, art books, and other documents you want to read quickly and comfortably.
@@ -43,6 +48,6 @@ When you reopen a document, LaunchBox Reader returns to the page or location you
 
 ## Next Steps
 
-- [Reading Documents](reading-documents.md)
-- [Contents and Bookmarks](contents-and-bookmarks.md)
-- [Reader Settings](settings.md)
+- [Reading Documents](reading-documents.html)
+- [Contents and Bookmarks](contents-and-bookmarks.html)
+- [Reader Settings](settings.html)

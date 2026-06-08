@@ -1,3 +1,8 @@
+---
+title: Reading Documents
+description: Navigation, layout, fit, zoom, and fullscreen reading basics.
+---
+
 # Reading Documents
 
 LaunchBox Reader adapts to different kinds of documents. A scanned manual, a comic archive, and an EPUB book do not need the same layout, so the reader gives you display options that fit each style.

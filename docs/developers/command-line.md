@@ -1,3 +1,8 @@
+---
+title: Command Line Reference
+description: Command-line arguments for launching LaunchBox Reader.
+---
+
 # Command Line Reference
 
 LaunchBox Reader is controlled at startup with command-line arguments.

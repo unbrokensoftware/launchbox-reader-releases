@@ -1,3 +1,8 @@
+---
+title: Integration Examples
+description: Practical examples for launching LaunchBox Reader from another application.
+---
+
 # Integration Examples
 
 These examples show practical ways to launch LaunchBox Reader from another application.
@@ -123,4 +128,3 @@ After launching:
 - Do not assume `Process.Start` means the document loaded successfully.
 - Ask users for logs from the reader data root when diagnosing document-specific failures.
 - Keep your integration tolerant of the reader being closed independently.
-

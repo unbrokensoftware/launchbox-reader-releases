@@ -1,3 +1,8 @@
+---
+title: Supported Formats
+description: File formats supported by LaunchBox Reader.
+---
+
 # Supported Formats
 
 LaunchBox Reader supports common document, ebook, comic, archive, image, and text formats.
@@ -49,5 +54,4 @@ Check that:
 - Image files inside an archive are named in the order you expect.
 - The format is listed above.
 
-See [Troubleshooting](troubleshooting.md) for more help.
-
+See [Troubleshooting](troubleshooting.html) for more help.

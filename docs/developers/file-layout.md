@@ -1,3 +1,8 @@
+---
+title: Files, Data, and Cache Layout
+description: Standalone Reader folder layout, data root, logs, and cache locations.
+---
+
 # Files, Data, and Cache Layout
 
 LaunchBox Reader keeps user data, settings, logs, and caches in a reader data root.

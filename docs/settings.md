@@ -1,3 +1,8 @@
+---
+title: Reader Settings
+description: Display, layout, theme, and typography settings in LaunchBox Reader.
+---
+
 # Reader Settings
 
 Reader settings let you make each document comfortable to read. Some settings apply to fixed-layout documents such as PDFs and comics. Other settings apply to EPUB books.
@@ -72,4 +77,3 @@ These settings help EPUB books feel more like a dedicated ebook reader.
 ## Saving Preferences
 
 LaunchBox Reader remembers your reading state and preferences so documents reopen the way you left them.
-

@@ -1,3 +1,8 @@
+---
+title: SQLite Data Stores
+description: Reader settings and state database overview for integrators.
+---
+
 # SQLite Data Stores
 
 LaunchBox Reader uses SQLite for durable settings and reading state.
@@ -153,4 +158,3 @@ To reset only rendered/derived data, delete `Cache/`.
 To reset reading progress and bookmarks, delete `reader-state.db`.
 
 To reset global settings and input mappings, delete `reader-settings.db`.
-

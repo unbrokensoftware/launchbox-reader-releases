@@ -1,3 +1,8 @@
+---
+title: Developer Integration Guide
+description: Integrate LaunchBox Reader into another application as a standalone process.
+---
+
 # Developer Integration Guide
 
 This section is for developers who want to launch LaunchBox Reader from their own application.
@@ -72,7 +77,7 @@ Your app does not need to create or edit reader databases for normal use.
 
 ## More Detail
 
-- [Command Line Reference](command-line.md)
-- [Files, Data, and Cache Layout](file-layout.md)
-- [SQLite Data Stores](sqlite-stores.md)
-- [Integration Examples](examples.md)
+- [Command Line Reference](command-line.html)
+- [Files, Data, and Cache Layout](file-layout.html)
+- [SQLite Data Stores](sqlite-stores.html)
+- [Integration Examples](examples.html)
