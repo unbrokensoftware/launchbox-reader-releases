@@ -1,0 +1,4 @@
+Third-Party Notices
+
+LaunchBox Reader includes third-party components. This file will be updated with third-party license notices before the first public release.
+
