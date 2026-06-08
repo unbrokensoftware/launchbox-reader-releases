@@ -73,7 +73,7 @@ a:hover {
   top: 0;
   z-index: 20;
   display: grid;
-  grid-template-columns: auto auto minmax(0, 1fr);
+  grid-template-columns: auto minmax(0, 1fr);
   align-items: center;
   gap: 18px;
   padding: 14px 32px;
@@ -124,12 +124,6 @@ a:hover {
   gap: 6px;
   flex-wrap: wrap;
   justify-content: flex-end;
-}
-
-.header-actions {
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
 }
 
 .top-nav a {
@@ -511,12 +505,8 @@ a:hover {
     padding: 16px 20px;
   }
 
-  .header-actions {
-    order: 2;
-  }
-
   .top-nav {
-    order: 3;
+    order: 2;
     justify-content: flex-start;
   }
 
