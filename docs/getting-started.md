@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Getting Started
 description: Learn what LaunchBox Reader is for and how to open documents.
 ---

@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Integration Examples
 description: Practical examples for launching LaunchBox Reader from another application.
 ---

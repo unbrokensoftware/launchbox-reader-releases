@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Keyboard and Controller Controls
 description: Default keyboard and controller controls for LaunchBox Reader.
 ---

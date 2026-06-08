@@ -1,4 +1,5 @@
 ---
+layout: default
 title: SQLite Data Stores
 description: Reader settings and state database overview for integrators.
 ---

@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Contents and Bookmarks
 description: Use table of contents entries and bookmarks to jump through documents.
 ---

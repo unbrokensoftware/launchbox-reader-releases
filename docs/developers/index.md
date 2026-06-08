@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Developer Integration Guide
 description: Integrate LaunchBox Reader into another application as a standalone process.
 ---

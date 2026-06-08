@@ -1,4 +1,5 @@
 ---
+layout: default
 title: LaunchBox Reader Documentation
 description: User guide, downloads, and developer integration notes for LaunchBox Reader.
 ---

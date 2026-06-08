@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Command Line Reference
 description: Command-line arguments for launching LaunchBox Reader.
 ---

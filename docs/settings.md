@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Reader Settings
 description: Display, layout, theme, and typography settings in LaunchBox Reader.
 ---

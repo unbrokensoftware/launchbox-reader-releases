@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Files, Data, and Cache Layout
 description: Standalone Reader folder layout, data root, logs, and cache locations.
 ---

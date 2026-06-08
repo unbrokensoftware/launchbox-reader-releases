@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Troubleshooting
 description: Common issues and fixes for LaunchBox Reader.
 ---

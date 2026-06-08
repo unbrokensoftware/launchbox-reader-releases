@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Reading Documents
 description: Navigation, layout, fit, zoom, and fullscreen reading basics.
 ---

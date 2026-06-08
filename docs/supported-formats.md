@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Supported Formats
 description: File formats supported by LaunchBox Reader.
 ---
