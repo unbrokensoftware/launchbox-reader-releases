@@ -7,6 +7,13 @@
     <meta name="description" content="{{ page.description | default: site.description }}">
     <link rel="icon" href="{{ '/assets/img/reader-mark.svg' | relative_url }}" type="image/svg+xml">
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    <script>
+      (function () {
+        var saved = localStorage.getItem("reader-docs-theme");
+        var prefersDark = window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches;
+        document.documentElement.dataset.theme = saved || (prefersDark ? "dark" : "light");
+      })();
+    </script>
   </head>
   <body>
     <header class="site-header">
@@ -23,6 +30,10 @@
         <a href="{{ '/controls.html' | relative_url }}">Controls</a>
         <a href="{{ '/developers/' | relative_url }}">Developers</a>
         <a class="download-link" href="https://github.com/unbrokensoftware/launchbox-reader-releases/releases">Releases</a>
+        <button class="theme-toggle" type="button" aria-label="Toggle dark mode" aria-pressed="false">
+          <span class="theme-toggle-icon" aria-hidden="true"></span>
+          <span class="theme-toggle-text">Theme</span>
+        </button>
       </nav>
     </header>
 
@@ -59,6 +70,6 @@
       <span>LaunchBox Reader is free to use and proprietary software.</span>
       <a href="https://github.com/unbrokensoftware/launchbox-reader-releases">Release repository</a>
     </footer>
+    <script src="{{ '/assets/js/theme.js' | relative_url }}"></script>
   </body>
 </html>
-
