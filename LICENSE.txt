@@ -1,22 +1,20 @@
 LaunchBox Reader Freeware License Agreement
 
-Copyright (c) Unbroken Software, LLC. All rights reserved.
-
-IMPORTANT: This is a working license draft for public release planning and should be reviewed by qualified legal counsel before publication.
+Copyright (c) 2013-2026 Unbroken Software, LLC. All rights reserved.
 
 1. License Grant
 
-Unbroken Software grants you a limited, revocable, non-exclusive, non-transferable license to install and use LaunchBox Reader free of charge for personal use and for use with LaunchBox or Big Box.
+Unbroken Software, LLC grants you a limited, revocable, non-exclusive, non-transferable license to download, install, and use official LaunchBox Reader release builds free of charge for personal use and for use with LaunchBox, Big Box, and related Unbroken Software products.
 
 2. Restrictions
 
-You may not sell, rent, lease, sublicense, redistribute, modify, adapt, translate, reverse engineer, decompile, disassemble, or create derivative works from LaunchBox Reader, except to the limited extent that applicable law expressly prohibits these restrictions.
+You may not sell, rent, lease, sublicense, redistribute, modify, adapt, translate, reverse engineer, decompile, disassemble, publish, or create derivative works from LaunchBox Reader, except to the limited extent that applicable law expressly prohibits these restrictions or unless Unbroken Software, LLC gives you express written permission.
 
 You may not remove, obscure, or alter any copyright, trademark, or other proprietary notices included with LaunchBox Reader.
 
 3. Source Code
 
-LaunchBox Reader is proprietary software. This license does not grant access to, or rights in, the source code.
+LaunchBox Reader is proprietary software owned by Unbroken Software, LLC. The public release repository provides official release downloads and documentation only. This license does not grant access to, or any rights in, the private LaunchBox Reader source code.
 
 4. Third-Party Components
 
@@ -24,7 +22,7 @@ LaunchBox Reader may include third-party components governed by their own licens
 
 5. Updates and Availability
 
-Unbroken Software may update, change, suspend, or discontinue LaunchBox Reader at any time.
+Unbroken Software, LLC may update, change, suspend, or discontinue LaunchBox Reader at any time.
 
 6. No Warranty
 
@@ -32,9 +30,8 @@ LaunchBox Reader is provided "as is" and "as available" without warranties of an
 
 7. Limitation of Liability
 
-To the maximum extent permitted by law, Unbroken Software will not be liable for any indirect, incidental, special, consequential, exemplary, or punitive damages, or for any loss of data, profits, revenue, or business, arising out of or related to LaunchBox Reader.
+To the maximum extent permitted by law, Unbroken Software, LLC will not be liable for any indirect, incidental, special, consequential, exemplary, or punitive damages, or for any loss of data, profits, revenue, or business, arising out of or related to LaunchBox Reader.
 
 8. Termination
 
 This license terminates automatically if you violate its terms. Upon termination, you must stop using LaunchBox Reader and delete all copies in your possession or control.
-
