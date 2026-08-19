@@ -18,7 +18,7 @@ It is built for quick document reading: open a file or folder, jump back to the 
 
 ## Features
 
-- Read PDFs, EPUB books, comic archives, image folders, and text documents.
+- Read PDFs, EPUB books, Word documents, comic archives, image folders, and text documents.
 - Open manuals, guides, books, comics, image folders, and archives.
 - Resume documents where you left off.
 - Use layouts designed for manuals, comics, books, and TV reading.

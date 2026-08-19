@@ -43,6 +43,20 @@ Open Settings and try:
 
 Scanned manuals vary widely, so one fit mode may work better than another depending on the document.
 
+## A Two-Page Scan Shows As One Page
+
+Some booklets are scanned one sheet at a time, so a single image holds two book
+pages. The reader normally detects those and splits them.
+
+If a spread is shown whole, or a single page is cut in half when it should not
+be, open Settings and change Split Sheets:
+
+- Always: force every page to be split.
+- Never: stop the reader splitting anything.
+
+The setting is remembered for that document only. See
+[Reader Settings](settings.html).
+
 ## Contents Looks Empty
 
 Not all documents include a table of contents.

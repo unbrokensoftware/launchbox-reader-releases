@@ -12,8 +12,16 @@ LaunchBox Reader supports common document, ebook, comic, archive, image, and tex
 
 - PDF
 - EPUB
+- DOCX (Word)
 - TXT
 - RTF
+
+Word, text, and rich text documents are reflowable. They are laid out as
+pages with chapters and a table of contents, and they respond to the font,
+text size, line spacing, and margin settings in the same way EPUB books do.
+
+Older `.doc` Word files are not supported. Open the file in Word or a
+compatible editor and save it as `.docx` to read it here.
 
 ## Comics and Image Archives
 

@@ -44,11 +44,21 @@ Fit options control how fixed-layout pages are sized in the reader.
 
 If a scanned page has borders or unusual dimensions, try a different fit mode or margin setting.
 
-## EPUB Reading
+## Two-Page Scans
 
-EPUB files are reflowable books. Their text can adapt to the window size and reading settings.
+Some booklets and magazines are scanned one physical sheet at a time, so a
+single image holds two book pages side by side. The reader detects those sheets
+and splits them so each page fills its own side of the spread.
 
-EPUB-specific options include:
+If a page is split when it should not be, or shown whole when it should be
+split, change Split Sheets in Settings. See [Reader Settings](settings.html).
+
+## Reflowable Books
+
+EPUB, Word, text, and rich text documents are reflowable. Their text adapts to
+the window size and reading settings rather than being fixed to a scanned page.
+
+Options for reflowable books include:
 
 - Single-page or two-page layout
 - Font family

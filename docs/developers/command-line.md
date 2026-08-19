@@ -45,7 +45,7 @@ Slash aliases are supported on Windows.
 | Argument | Values | Description |
 | --- | --- | --- |
 | `--path`, `-path` | File or folder path | Document, archive, image, or image folder to open. |
-| `--format`, `-format` | `pdf`, `epub`, `cbz`, `cbr`, `cb7`, `cbt`, `zip`, `rar`, `7z`, `images` | Optional format hint when a path is ambiguous. |
+| `--format`, `-format` | `pdf`, `epub`, `docx`, `txt`, `rtf`, `cbz`, `cbr`, `cb7`, `cbt`, `zip`, `rar`, `7z`, `images` | Optional format hint when a path is ambiguous. |
 | `--document-title`, `-document-title` | Text | Title shown by the reader instead of the filename. |
 | `--game-title`, `-game-title` | Text | Optional related item title for display integrations. |
 | `--platform`, `-platform` | Text | Optional related category title for display integrations. |
@@ -101,6 +101,7 @@ Note: `simple` currently maps to the animated page turn mode.
 | Argument | Values | Description |
 | --- | --- | --- |
 | `--flow`, `-flow` | `paginated`, `continuous` | Sets EPUB reading flow. |
+| `--split`, `-split` | `auto`, `never`, `always` | Controls whether a scanned sheet holding two book pages is shown as two pages. `auto` detects it per page, `never` never splits, `always` splits every page. |
 | `--epub-layout`, `-epub-layout` | `auto`, `single`, `spread` | Sets EPUB paginated layout. |
 | `--margin`, `--epub-margin` | `small`, `medium`, `large`, `0`, `1`, `2` | Sets EPUB text margin. |
 | `--font`, `--font-family`, `--book-font` | `serif`, `sans`, `sans-serif`, `mono`, `monospace` | Sets EPUB font family. |

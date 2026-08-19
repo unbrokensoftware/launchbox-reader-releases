@@ -15,13 +15,13 @@ Use LaunchBox Reader when you want to:
 - Read a manual, guide, book, or reference document.
 - View scanned booklets, maps, magazines, or art books.
 - Read comics, scanned booklets, or image archives.
-- Open EPUB books and text documents.
+- Open EPUB books, Word documents, and text documents.
 - Resume a document at the exact place you stopped reading.
 - Navigate comfortably from a couch with a controller.
 
 ## Opening a Document
 
-Open a supported file or image folder with LaunchBox Reader. Documents can include PDFs, EPUB books, comic archives, image archives, text files, and folders of page images.
+Open a supported file or image folder with LaunchBox Reader. Documents can include PDFs, EPUB books, Word documents, comic archives, image archives, text files, and folders of page images.
 
 The reader remembers document state, including your last location and many display preferences.
 

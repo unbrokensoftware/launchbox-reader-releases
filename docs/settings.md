@@ -35,6 +35,27 @@ Layout controls how pages are arranged.
 - Spread: two-page reading when space allows.
 - Stacked: pages arranged in a continuous strip.
 
+## Split Sheets
+
+Some scanned booklets and magazines are scanned one physical sheet at a time,
+so a single image holds two book pages side by side. Split Sheets controls
+whether the reader separates that image into two pages.
+
+- Auto: work it out for each page. A booklet scanned sheet by sheet is split
+  throughout, and a single oversized page in an otherwise normal document is
+  split on its own.
+- Never: never split. Every page is shown exactly as it was scanned.
+- Always: split every page down the middle, whatever its shape.
+
+Auto suits almost every document. Use Never when a wide page is genuinely a
+single page, such as a fold-out map or a landscape photo book, and the reader
+has cut it in half. Use Always when a scan really is a two-page sheet but the
+reader is showing it whole, which can happen when the scan is trimmed unusually
+close to the page edges.
+
+This setting is remembered per document, so changing it for one awkward scan
+leaves the rest of your library alone.
+
 ## Fit Mode
 
 Fit mode controls how fixed-layout pages are sized.
